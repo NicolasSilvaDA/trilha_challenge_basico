@@ -45,7 +45,7 @@ footer {
     text-align: center;
 }
 
-.learning-content-block {
+.content-block {
     padding: 24px;
     max-width: 400px;
     max-height: 400px;
@@ -53,11 +53,16 @@ footer {
     background-color: rgb(14, 14, 14);
 }
 
-.learning-content-block-h2 {
+.learning-icon {
+    padding-top: 12px;
+    max-width: 60px;
+}
+
+.content-block-h2 {
     margin: 12px 0;
 }
 
-.learning-content-block-p {
+.content-block-p {
     padding: 0 60px;
     line-height: 1.5rem;
 }
